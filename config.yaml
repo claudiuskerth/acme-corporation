@@ -1,4 +1,4 @@
-baseURL: http://example.org/ # update before deployment
+baseURL: https://claudiuskerth.github.io/acme-corporation/ # update before deployment
 languageCode: en-us
 title: Acme Corporation
 theme: Eclectic
