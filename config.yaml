@@ -21,6 +21,11 @@ menu:
       name: Contact
       url: /contact
       weight: 200
+    - identifier: credits
+      name: Credits
+      url: /credits
+      weight: 300
+
 params:        
   color: "#4f46e5"
   copyright: "Copyright &copy; 2022 Acme Corporation.
@@ -41,9 +46,9 @@ params:
       recentCount: 7
     - title: Contact Us
       contact: true
-  style: blue
-  logo: /image/logo.png
-  logo_small: /image/logo.png
+  style: red
+      #  logo: /image/Arvensis_colour.jpg
+      #  logo_small: /image/Arvensis_colour.jpg
   about_us: >
         Acme Corporation is the world's leading
         manufacturer of digital shapes. From squares
